@@ -35,13 +35,13 @@ The analysis is presented as a fully worked Jupyter notebook, combining data cle
 
 ## 📁 Project Structure
 
-\```
+```
 astrolytics/
 ├── mission_launches.csv                       # Raw dataset (4,324 launch records)
 ├── Space_Missions_Analysis__start_.ipynb       # Starter notebook (unsolved / template)
 ├── Space_Missions_Analysis__solved_.ipynb      # Full analysis with visualizations
 └── README.md
-\```
+```
 
 ---
 
@@ -82,17 +82,21 @@ The dataset (`mission_launches.csv`) contains launch records with the following 
 ### Prerequisites
 Make sure you have Python 3 and Jupyter installed, then install the required packages:
 
-\```
+```
 pip install numpy pandas matplotlib seaborn plotly iso3166
-\```
+```
 
 ### Running the Notebook
 
-\```
-git clone https://github.com/<your-username>/astrolytics.git
+```
+git clone https://github.com/rhitamcoder/astrolytics.git
+```
+```
 cd astrolytics
+```
+```
 jupyter notebook Space_Missions_Analysis__solved_.ipynb
-\```
+```
 
 If you'd like to work through the analysis yourself, start with `Space_Missions_Analysis__start_.ipynb` instead — it contains the setup and questions without the completed solutions.
 

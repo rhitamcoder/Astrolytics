@@ -2,7 +2,7 @@
 
 **A data-driven exploration of the Space Race — from Sputnik in 1957 to the present day.**
 
-Astrolytics is a Python-based data analysis project that digs into more than six decades of space mission history. Using a dataset of **4,300+ launches** scraped from [nextspaceflight.com](https://nextspaceflight.com/launches/past/?page=1), this project explores launch trends, mission costs, success/failure rates, and the historic USA vs. USSR rivalry that kicked off the era of spaceflight.
+Astrolytics is a Python-based data analysis project that digs into more than six decades of space mission history. Using a dataset of **4,300+ launches** scraped from [nextspaceflight.com](https://nextspaceflight.com/launches/), this project explores launch trends, mission costs, success/failure rates, and the historic USA vs. USSR rivalry that kicked off the era of spaceflight.
 
 ---
 
@@ -114,8 +114,8 @@ If you'd like to work through the analysis yourself, start with `Space_Missions_
 
 The code in this repository (notebooks and analysis) is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
-> **Note:** The MIT License applies to the code only. The dataset (`mission_launches.csv`) was scraped from a third-party source and is included here for educational/analysis purposes — it is not covered by this repository's license. Please check [nextspaceflight.com](https://nextspaceflight.com/launches/past/?page=1) for their own terms if you intend to reuse the data itself.
+> **Note:** The MIT License applies to the code only. The dataset (`mission_launches.csv`) was scraped from a third-party source and is included here for educational/analysis purposes — it is not covered by this repository's license. Please check [nextspaceflight.com](https://nextspaceflight.com/launches/) for their own terms if you intend to reuse the data itself.
 
 ## 🙌 Acknowledgements
 
-Dataset sourced from [nextspaceflight.com](https://nextspaceflight.com/launches/past/?page=1).
+Dataset sourced from [nextspaceflight.com](https://nextspaceflight.com/launches/).
